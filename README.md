@@ -1,5 +1,8 @@
 # Halo, Saya Julian Dwi Satrio! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=jouleee&label=Profile%20Views&color=0e75b6&style=flat)
+
+
 Saya adalah mahasiswa Universitas Pendidikan Indonesia jurusan Ilmu Komputer yang antusias belajar dan mengembangkan berbagai aplikasi serta solusi melalui pemrograman. Di sini, saya membagikan proyek-proyek kuliah, tugas, dan eksplorasi teknologi yang saya kerjakan selama masa studi.
 
 ## Tentang Saya
@@ -16,9 +19,11 @@ Saya adalah mahasiswa Universitas Pendidikan Indonesia jurusan Ilmu Komputer yan
 - **Tools & Teknologi:** Git, VSCode, Terminal, dan lainnya
 
 ## Statistik GitHub
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jouleee&show_icons=true&theme=radical)](https://github.com/jouleee)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jouleee&show_icons=true&theme=tokyonight)    [![GitHub Streak](https://streak-stats.demolab.com/?user=jouleee&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jouleee&layout=compact&theme=radical)](https://github.com/jouleee)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jouleee&layout=compact&theme=tokyonight)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jouleee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Kontak
 - **Email:** julian.dsatrio@gmail.com
